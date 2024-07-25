@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Weapon_System/BP_Weapon.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Interact_System/BPI_CanInteract.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Armour_System/BP_Armour_Piece.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Inventory_System/BPC_Inventor.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Inventory_System/BPC_Inventory.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Interact_System/BPC_Interact_System.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Interact_System/BPI_Can_Interact_With.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Interact_System/BPI_Can_Interact.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Armour_System/BPI_Armour.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Weapon_System/BPI_Weapon.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Inventory_System/WBP_Inventory_Item.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Inventory_System/WBP_Inventory_Box.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Inventory_System/WBP_Inventory.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Inventory_System/BPI_Can_Be_Stored.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/Interact_System/WBP_Interact_Prompt.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/BA/0TGPYPEIFL0KD7M9AA65DB.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7O/CABXHLZI93JTWMYT3MGYDY.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YJ/Q4YCEGS51JPNIIC88IQ3TI.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TF/Q2AFNGG3NTG8VOH9K3ZR97.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/Some_RPG_Systems/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XZ/5A91V7TJGOKTL59LHRXQ78.uasset"
+			]
+		}
+	]
+}
