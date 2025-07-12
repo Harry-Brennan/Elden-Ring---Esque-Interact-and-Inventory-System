@@ -1,0 +1,1 @@
+Small project focusing on attempting to create a simple Elden Ring-esque inventory system featuring equipping, dequipping, and storing items that could be picked up within a world with systems that should be easily expandable.
